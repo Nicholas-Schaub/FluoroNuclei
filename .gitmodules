@@ -1,0 +1,16 @@
+[submodule "BBBC006"]
+	path = BBBC006
+	url = https://github.com/Nicholas-Schaub/BBBC006.git
+	branch = master
+[submodule "BBBC007"]
+	path = BBBC007
+	url = https://github.com/Nicholas-Schaub/BBBC007.git
+	branch = master
+[submodule "BBBC008"]
+	path = BBBC008
+	url = https://github.com/Nicholas-Schaub/BBBC008.git
+	branch = master
+[submodule "BBBC020"]
+	path = BBBC020
+	url = https://github.com/Nicholas-Schaub/BBBC020.git
+	branch = master
